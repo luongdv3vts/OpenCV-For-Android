@@ -3,5 +3,5 @@
 use:
 
 ```java
-implementation 'com.github.xiaolei123:OpenCV-Android:4.5.2-2'
+implementation 'com.github.luongdv3:OpenCV-Android:4.5.2-2'
 ```
